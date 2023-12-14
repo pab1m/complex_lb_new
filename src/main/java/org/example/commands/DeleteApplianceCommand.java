@@ -52,10 +52,4 @@ public class DeleteApplianceCommand implements Command {
         }
         return null;
     }
-
-//    public List<Appliance> getAppliances() {
-//        return appliances;
-//    }
-
-
 }
